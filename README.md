@@ -1,24 +1,17 @@
-#Bookstore App
+# Bookstore App (C)
 
-Overview
+A simple console-based bookstore application written in C that allows users to manage books, view available books, and calculate the total price of books purchased.
 
-The Bookstore App is a simple and efficient application for managing books in a bookstore. It allows users to browse, search, and manage book inventory with ease.
+## Features
 
-Features
+- Add new books to the inventory.
+- View a list of available books in the store.
+- Search for books by title or author.
+- Calculate the total price of selected books for purchase.
+- Delete books from the inventory.
 
-Add, edit, and delete books from the inventory.
+## Requirements
 
-Search books by title, author, or category.
-
-View detailed information about each book.
-
-User-friendly interface.
-
-Technologies Used
-
-C (Programming Language)
-
-SQLite (Database)
-
-GTK+ (Graphical User Interface)
+- C Compiler (GCC, Clang, etc.)
+- Standard C Library
 
